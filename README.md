@@ -1,0 +1,2 @@
+# yobimori_developer_manual
+yobimori開発者のためのマニュアルです。
