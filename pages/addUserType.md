@@ -1,4 +1,4 @@
-# storeGPSReport
+# addUserType
 
 ## 機能
 

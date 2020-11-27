@@ -1,4 +1,4 @@
-# storeGPSReport
+# recieveAccident
 
 ## 機能
 
