@@ -1,4 +1,4 @@
-# storeGPSReport
+# emergencyNotifyToRescuers
 
 ## 機能
 

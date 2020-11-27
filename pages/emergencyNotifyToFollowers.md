@@ -1,4 +1,4 @@
-# storeGPSReport
+# emergencyNotifyToFollowers
 
 ## 機能
 
